@@ -1,0 +1,1 @@
+docker run CMD ["npm", "run", "start"]
